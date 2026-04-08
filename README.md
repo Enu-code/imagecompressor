@@ -57,4 +57,6 @@ No images are uploaded to a server.
 
 ---
 
-Built by **@berkindev** as part of **30 Days – 30 Web Apps**.
+## Credits
+Original project by berkinyilmaz  
+Modified and customized by Enu-code
